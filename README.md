@@ -1,0 +1,2 @@
+# mycustomplugin
+WP Custom Plugin
